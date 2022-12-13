@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leonardo Cavinato, conhecido também como Dykoz! 🖐️
+## Olá! Eu sou o Dykoz! 🖐️
 
 <!--
 **[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
@@ -7,7 +7,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/dykoztv)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/G8kkkEA)
 
-![Dykoz GitHub stats](https://github-readme-stats.vercel.app/api?username=dykoz&show_icons=true&theme=dracula&count_private=true)
+![Dykoz GitHub stats](https://github-readme-stats.vercel.app/api?username=OiSouDykoz&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia:
 
