@@ -1,59 +1,134 @@
-<!-- Banner: Substitua o link abaixo por uma arte sua. Uma identidade visual minimalista e com uma pegada mais underground ou de estúdio valorizaria muito seu perfil! -->
-<img src="COLOQUE_O_LINK_DA_SUA_IMAGEM_AQUI" alt="Leonardo Cavinato Banner" width="100%">
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Leonardo Cavinato (Dykoz)</h1>
-<h3 align="center">Passionate front-end developer with a keen eye for visual identity. I have experience in HTML, CSS, JavaScript, and Lua. Always eager to learn and face new challenges.</h3>
+  <!-- ⚠️ Substitua o link abaixo pela URL de um novo banner. Recomendo subir a imagem no próprio repositório do GitHub em vez de usar o Discord! -->
 
-<p align="center">
+  <!-- <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Dykoz GitHub Banner" width="100%"> -->
+
+  
+
+  <h1>Hi 👋, I'm Dykoz</h1>
+
+  <h3>Passionate Front-end Developer</h3>
+
+  <p>I have experience in HTML, CSS, JavaScript, and also Lua. Always eager to learn and face new challenges in the world of technology.</p>
+
+</div>
+
+
+
+<br>
+
+
+
+<div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=OiSouDykoz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
----
+</div>
 
-### 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<br>
+
+
+
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
+
+### 👨‍💻 About Me
+
+
 
 - 🌱 I’m currently learning **Python**
-- 👨‍💻 All of my projects are available at [OiSouDykoz](https://github.com/OiSouDykoz)
-- 💬 Ask me about **front-end, games, and law**
-- 📫 How to reach me: **[SEU E-MAIL REAL AQUI]**
-- ⚡ Fun fact: **Passionate about pizza and sushi.**
 
----
+- 🚀 All of my projects are available in my [Repositories](https://github.com/OiSouDykoz?tab=repositories)
+
+- 💬 Ask me about **Games, Law, and Front-end Development.**
+
+- 📫 How to reach me: **[embreve@embreve.com](mailto:SEU_EMAIL_AQUI@gmail.com)**
+
+- ⚡ Fun fact: **Passionate about pizza and sushi 🍕🍣**
+
+
+
+<br>
+
+
 
 ### 🛠️ Languages and Tools
 
-<!-- Usando Skill Icons para um visual moderno e padronizado -->
+
+
+<!-- O Skill Icons gera ícones limpos e do mesmo tamanho automaticamente! -->
+
 <p align="left">
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,lua,python,php,nodejs,mysql,git,figma&theme=dark" alt="My Skills" />
+
+    <img src="https://skillicons.dev/icons?i=lua,js,html,css,figma,git,mysql,nodejs,php&theme=dark" alt="My Skills" />
+
   </a>
+
 </p>
 
----
 
-### 🌐 Connect with me
 
-<!-- Badges modernas para as redes sociais. Lembre-se de preencher seus links de perfil no href="" -->
+<br>
+
+
+
+### 📱 Connect with me
+
+
+
 <p align="left">
+
   <a href="https://twitch.tv/dykoztv" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+
+    <img src="https://skillicons.dev/icons?i=twitch&theme=dark" alt="Twitch" height="40" />
+
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="https://www.instagram.com/SEU_USER_AQUI" target="_blank">
+
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="40" />
+
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+  <a href="https://twitter.com/SEU_USER_AQUI" target="_blank">
+
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="40" />
+
   </a>
+
+  <a href="https://www.linkedin.com/in/SEU_USER_AQUI" target="_blank">
+
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40" />
+
+  </a>
+
 </p>
 
----
+
+
+<br>
+
+
 
 ### 📊 GitHub Stats
 
-<!-- Ocultando as bordas e igualando o fundo para integrar melhor com o Dark Mode do GitHub -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OiSouDykoz&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OiSouDykoz&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
+
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=OiSouDykoz&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dykoz Stats" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OiSouDykoz&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OiSouDykoz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</div>
+
