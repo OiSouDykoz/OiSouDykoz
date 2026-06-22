@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Python**
 - 🚀 All of my projects are available in my [Repositories](https://github.com/OiSouDykoz?tab=repositories)
 - 💬 Ask me about **Games, Law, and Front-end Development.**
-- 📫 How to reach me: **[SEU_EMAIL_AQUI@gmail.com](mailto:SEU_EMAIL_AQUI@gmail.com)**
+- 📫 How to reach me: **[embreve@embreve.com](mailto:SEU_EMAIL_AQUI@gmail.com)**
 - ⚡ Fun fact: **Passionate about pizza and sushi 🍕🍣**
 
 <br>
@@ -32,7 +32,7 @@
 <!-- O Skill Icons gera ícones limpos e do mesmo tamanho automaticamente! -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,js,html,css,figma,git,mariadb,mysql,nodejs,php&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=lua,js,html,css,figma,git,mysql,nodejs,php&theme=dark" alt="My Skills" />
   </a>
 </p>
 
