@@ -1,67 +1,57 @@
-<div align="center">
-  <!-- ⚠️ Substitua o link abaixo pela URL de um novo banner. Recomendo subir a imagem no próprio repositório do GitHub em vez de usar o Discord! -->
-  <!-- <img src="URL_DA_SUA_IMAGEM_AQUI" alt="Dykoz GitHub Banner" width="100%"> -->
-  
-  <h1>Hi 👋, I'm Dykoz</h1>
-  <h3>Passionate Front-end Developer</h3>
-  <p>I have experience in HTML, CSS, JavaScript, and also Lua. Always eager to learn and face new challenges in the world of technology.</p>
-</div>
+<!-- Banner: Mantenha o link da sua imagem de banner aqui -->
+<img src="https://cdn.discordapp.com/attachments/1192521337722392675/1200452039805767690/image.png" alt="Leonardo Cavinato Banner" width="100%">
 
-<br>
+<h1 align="center">Hi 👋, I'm Dykoz</h1>
+<h3 align="center">Passionate Front-end Developer with a keen eye for visual identity. I have experience in HTML, CSS, JavaScript, and and also Lua. Always eager to learn and face new challenges in the world of technology.</h3>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=OiSouDykoz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+</p>
 
-<br>
+---
 
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+### 🚀 About Me
 
-### 👨‍💻 About Me
+<img align="right" alt="Professional Developer" width="400" src="**[COLOQUE O LINK DA NOVA IMAGEM PROFISSIONAL AQUI]**">
 
 - 🌱 I’m currently learning **Python**
-- 🚀 All of my projects are available in my [Repositories](https://github.com/OiSouDykoz?tab=repositories)
+- 👨‍💻 All of my projects are available in my [Repositories](https://github.com/OiSouDykoz?tab=repositories)
 - 💬 Ask me about **Games, Law, and Front-end Development.**
-- 📫 How to reach me: **[em@breve.com](mailto:SEU_EMAIL_AQUI@gmail.com)**
-- ⚡ Fun fact: **Passionate about pizza and sushi 🍕🍣**
+- 📫 How to reach me: **[SEU E-MAIL REAL AQUI]**
+- ⚡ Fun fact: **Passionate about pizza and sushi.** 🍕 🍣
 
-<br>
+---
 
 ### 🛠️ Languages and Tools
 
-<!-- O Skill Icons gera ícones limpos e do mesmo tamanho automaticamente! -->
+<!-- Usando Skill Icons para um visual moderno e padronizado -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,js,html,css,figma,git,mysql,nodejs,php&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,lua,php,nodejs,mysql,git,figma&theme=dark" alt="My Skills" />
   </a>
 </p>
 
-<br>
+---
 
-### 📱 Connect with me
+### 🌐 Connect with me
 
 <p align="left">
   <a href="https://twitch.tv/dykoztv" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitch&theme=dark" alt="Twitch" height="40" />
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
-  <a href="https://www.instagram.com/SEU_USER_AQUI" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="40" />
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/SEU_USER_AQUI" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_USER_AQUI" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40" />
+  <a href="https://instagram.com/SEU_INSTAGRAM_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-<br>
+---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OiSouDykoz&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dykoz Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OiSouDykoz&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OiSouDykoz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OiSouDykoz&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OiSouDykoz&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
